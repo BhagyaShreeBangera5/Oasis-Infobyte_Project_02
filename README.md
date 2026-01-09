@@ -22,3 +22,5 @@ This project contributed to strengthening my foundational skills in **front-end 
 * Lightweight and beginner-friendly front-end project
 * Cross-browser compatible and easy to deploy
 
+-> Special thanks to Prodigy Info Tech for the internship opportunity #OasisInfobyte
+
